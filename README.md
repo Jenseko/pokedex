@@ -12,10 +12,10 @@ A directory for all current Pokemon and their individual stats. Here you get a g
 
 ### Authors <br>
 <ul>
-<li>HTML</li>
-<li>SCSS</li>
-<li>REACT</li>
-<li>FIGMA</li>
+<li><a href='https://github.com/TheAyes'>TheAyes</a></li>
+<li><a href='https://github.com/Fernandez-Ana'>Fernandez-Ana</a></li>
+<li><a href='https://github.com/Maartala'>Maartala</a></li>
+<li><a href='https://github.com/Jenseko'>Jenseko</a></li>
 </ul>
 
 
